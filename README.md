@@ -108,9 +108,9 @@ markdown의 주 목적은 사람들이 읽기 쉽고 쓰기 쉬운 서식 문서
 - 나는 오늘 🖥️
 
 13.배지 추가
-[배치 달기(언어, 기술, 개발 도구, 자격)](https://simpleicons.org)
+[배지 달기(언어, 기술, 개발 도구, 자격)](https://simpleicons.org)
 
-<ing src="https://simpleicons.org/?q=python#:~:text=Order,Python">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 
 
